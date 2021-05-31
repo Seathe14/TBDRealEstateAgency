@@ -1,0 +1,12 @@
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\bin\Debug\AgencyDB.mdf
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\bin\Debug\AgencyDB_log.ldf
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\bin\Debug\TBDAgency.exe.config
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\bin\Debug\TBDAgency.exe
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\bin\Debug\TBDAgency.pdb
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.csproj.AssemblyReference.cache
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.Form1.resources
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.Properties.Resources.resources
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.csproj.GenerateResource.cache
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.csproj.CoreCompileInputs.cache
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.exe
+C:\Users\imynn\source\repos\TBDAgency\TBDAgency\obj\Debug\TBDAgency.pdb
